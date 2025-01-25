@@ -1,4 +1,4 @@
-Dynamic Inventory Management App
+# Dynamic Inventory Management App
 
 A modern, responsive web application for managing inventory dynamically, built with React.js.
 
